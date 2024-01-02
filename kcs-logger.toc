@@ -1,6 +1,6 @@
 ## Interface: 11402
-## Title: kcs-logger - SoD Raid Logger
-## Notes: Starts raid logging when you zone into SOD raids
+## Title: kcs-logger - Auto SOD Raid Logger
+## Notes: Starts raid logging when you zone into a Season of Discovery raid!
 ## Author: kc8pnd
 ## Version: v1.02
 
