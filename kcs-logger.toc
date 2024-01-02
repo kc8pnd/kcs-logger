@@ -1,0 +1,7 @@
+## Interface: 11402
+## Title: kcs-logger - SoD Raid Logger
+## Notes: Starts raid logging when you zone into SOD raids
+## Author: kc8pnd
+## Version: v1.02
+
+kcs-logger.lua
